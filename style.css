@@ -1,0 +1,60 @@
+/*Added favorite color to header and footer*/
+header{
+    font-size: x-large;
+    background-color: #1B920F;
+    text-align: center;
+    padding: 5px;
+}
+
+footer{
+    font-size: large;
+    background-color: #1B920F;
+    text-align: center;
+    padding: 5px;
+   
+}
+
+nav {
+    background-color: black;
+    color: #1B920F;
+    line-height: 30px;
+    float: left;
+    padding: 5px;
+    text-align: left;
+   
+  }
+
+  body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+  }
+
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-size: xx-large;
+  }
+
+  
+  p{
+    font-size: x-large
+  }
+
+  table,
+  th,
+  td{
+      border: 3px solid #3e3e3e;
+      color: rgb(165, 23, 44);
+      margin-left: auto;
+      margin-right: auto;
+      text-align: center;
+      font-size: large;
+  }
+
+  a{
+    font-size: x-large;
+  }
+
+ 
